@@ -1,0 +1,306 @@
+Customer Name: Rutvi
+Address: 
+City: 
+Province Code: 
+Postal Code: 
+Home Phone: 
+Cell Phone: 519-587-4521
+Email: rutvitailor@gmail.com
+Make & Model: Honda Civic
+Year: 
+Appointment Date: 7/13/2023
+Problem Description: 
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 7/20/2023
+Problem Description: oil change
+
+Customer Name: Jay Mistry
+Address: 65 Harolf
+City: Cambirdge
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 
+Cell Phone: 995-874-5965
+Email: ascdiug
+Make & Model: Honda Civic
+Year: 2014
+Appointment Date: 7/20/2023
+Problem Description: Oil
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 7/20/2023
+Problem Description: sd
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 7/20/2023
+Problem Description: da
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: iusadhkjag
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 7/20/2023
+Problem Description: asd
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: kjhkhj@ljk.clozj
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 7/20/2023
+Problem Description: 
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 7/20/2023
+Problem Description: 
+
+Customer Name: Rutvi Jay
+Address: 85harol
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 
+Cell Phone: 519-854-9632
+Email: rutvi@gmail.com
+Make & Model: Hondacivic
+Year: 2019
+Appointment Date: 7/13/2023
+Problem Description: 
+
+Customer Name: Honey
+Address: 134 Kozlov
+City: Barrie
+Province Code: ON
+Postal Code: M3M 7A7
+Home Phone: 
+Cell Phone: 985-874-8585
+Email: Honey@yahoo
+Make & Model: Honda Crv
+Year: 2023
+Appointment Date: 8/4/2023
+Problem Description: 
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 7/20/2023
+Problem Description: oil
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 7/20/2023
+Problem Description: tire change
+
+Appointment Count: 9
+
+Customer Name      : Isabella Thompston
+Address            : 65 Harold Ave
+City               : Kitchener
+Province Code      : ON
+Postal Code        : N2A 2H9
+Home Phone         : 111-222-8596
+Cell Phone         : 548-888-9999
+Email              : example@domain.com
+Make & Model       : Honda Civic
+Year               : 2019
+Appointment Date   : 7/20/2023
+Problem Description: Tire change
+
+Appointment Count: 10
+
+Customer Name      : Isabella Thompston
+Address            : 65 Harold Ave
+City               : Kitchener
+Province Code      : ON
+Postal Code        : N2A 2H9
+Home Phone         : 111-222-8596
+Cell Phone         : 548-888-9999
+Email              : example@domain.com
+Make & Model       : Honda Civic
+Year               : 2024
+Appointment Date   : 7/20/2023
+Problem Description: oil
+
+Appointment Count: 11
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2024
+Appointment Date: 7/20/2023
+Problem Description: oil
+
+Appointment Count: 12
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 
+Appointment Date: 7/20/2023
+Problem Description: oil
+
+Appointment Count: 13
+
+Customer Name: Rutvi
+Address: Kinxie
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 
+Cell Phone: 519-854-9645
+Email: RUTVI@GMAIL.COM
+Make & Model: Honda Civic
+Year: 2024
+Appointment Date: 21 Jul 2023
+Problem Description: OIL CHANGE
+
+Appointment Count: 14
+
+Customer Name: Sd
+Address: 
+City: 
+Province Code: 
+Postal Code: 
+Home Phone: 
+Cell Phone: 541-963-9852
+Email: rj@gmail.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 19 Jul 2023
+Problem Description: Tire checking
+
+Appointment Count: 15
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 21 Jul 2023
+Problem Description: Oil Change
+
+Appointment Count: 16
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 21 Jul 2023
+Problem Description: Example: Oil Change
+
+Appointment Count: 17
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 21 Jul 2023
+Problem Description: Tire Replacement And Oil Change
+
+Appointment Count: 18
+
+Customer Name: Isabella Thompston
+Address: 65 Harold Ave
+City: Kitchener
+Province Code: ON
+Postal Code: N2A 2H9
+Home Phone: 111-222-8596
+Cell Phone: 548-888-9999
+Email: example@domain.com
+Make & Model: Honda Civic
+Year: 2019
+Appointment Date: 29 Aug 2023
+Problem Description: Example: Oil Change
+
